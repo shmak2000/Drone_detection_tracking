@@ -3,4 +3,5 @@ Drone detection with yolov8 + tracking with [ByteTrack](https://github.com/ifzha
 Dataset was collected mostly from youtube videos + the internet and focuses on commercial UAVs like DJI Phantom, Mavic and look-a-likes from Xiaomi and such.
  Contains 3k manually labeled images + 5k unlabeled background images of planes, helicopters and birds.
  For validation I took another dataset, so the test/train data do not intersect.<br>
+ For the Dataset preview and model evaluation, please check out the [Notebook](Dataset+model_eval.ipynb).
 <br>Download [models checkpoint](https://drive.google.com/file/d/1Hteofp1wGSDQAJXNW3PegDG0ueV0OKqQ/view?usp=drive_link)
